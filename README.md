@@ -1,8 +1,10 @@
-# React + Vite
+# G90-BMW tribute website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+i am pretty sure the G90 will be a the most underated BMW. there is so much hate for something that is genuinely an engineering marvel. i am all for hybrid cars. but there is serious criticism which i will explore using humor and comedy. this website is a good practice for both my software engineering and design skills and also my humor creativity and art skills. 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+TODO:
+[ ] 
+[ ] 
+[ ] 
+[ ] 
+[ ] 
